@@ -1,2 +1,2 @@
-# Hello-git
-the first Git Repository
+# 保存一些工作中时常会使用的方法类或技巧
+
